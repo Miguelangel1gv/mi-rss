@@ -1,1 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog de Tecnología</title>
+        <link>https://www.blogtecnologia.com</link>
+        <description>Últimas noticias y tendencias sobre tecnología</description>
+        <language>es-ES</language>
+        <atom:link href="https://miguelangel1gv.github.io/mi-rss/canal_tecnologia.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Mon, 17 Mar 2025 12:00:00 GMT</pubDate>
 
+        <item>
+            <title>Apple lanza su nuevo iPhone 16</title>
+            <link>https://www.blogtecnologia.com/apple-iphone16</link>
+            <guid>https://www.blogtecnologia.com/apple-iphone16</guid>
+            <description>Apple presenta su nuevo iPhone 16 con tecnología revolucionaria.</description>
+            <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+            <category>Smartphones</category>
+        </item>
+
+        <item>
+            <title>Google desarrolla una IA avanzada para programadores</title>
+            <link>https://www.blogtecnologia.com/google-ia-programacion</link>
+            <guid>https://www.blogtecnologia.com/google-ia-programacion</guid>
+            <description>Google presenta una inteligencia artificial que ayudará a los programadores en su trabajo diario.</description>
+            <pubDate>Sat, 16 Mar 2025 15:30:00 GMT</pubDate>
+            <category>Inteligencia Artificial</category>
+        </item>
+
+        <item>
+            <title>Microsoft lanza la nueva Surface Pro 10</title>
+            <link>https://www.blogtecnologia.com/surface-pro-10</link>
+            <guid>https://www.blogtecnologia.com/surface-pro-10</guid>
+            <description>Microsoft renueva su línea Surface con la versión Pro 10.</description>
+            <pubDate>Fri, 15 Mar 2025 11:00:00 GMT</pubDate>
+            <category>Computadoras</category>
+        </item>
+
+        <item>
+            <title>Samsung desarrolla baterías de carga ultra rápida</title>
+            <link>https://www.blogtecnologia.com/samsung-baterias-rapidas</link>
+            <guid>https://www.blogtecnologia.com/samsung-baterias-rapidas</guid>
+            <description>Samsung introduce nuevas baterías que pueden cargarse en menos de 10 minutos
