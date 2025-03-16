@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Blog de Tecnología</title>
+        <link>https://www.blogtecnologia.com</link>
+        <description>Últimas noticias y tendencias sobre tecnología</description>
+        <language>es-ES</language>
+        <pubDate>Sun, 17 Mar 2025 12:00:00 GMT</pubDate>
+        
+        <item>
+            <title>Apple lanza su nuevo iPhone 16</title>
+            <link>https://www.blogtecnologia.com/apple-iphone16</link>
+            <description>Apple presenta su nuevo iPhone 16 con tecnología revolucionaria.</description>
+            <pubDate>Sun, 17 Mar 2025 09:00:00 GMT</pubDate>
+            <category>Smartphones</category>
+        </item>
+
+        <item>
+            <title>Google desarrolla una IA avanzada para programadores</title>
+            <link>https://www.blogtecnologia.com/google-ia-programacion</link>
+            <description>Google presenta una inteligencia artificial que ayudará a los programadores en su trabajo diario.</description>
+            <pubDate>Sat, 16 Mar 2025 15:30:00 GMT</pubDate>
+            <category>Inteligencia Artificial</category>
+        </item>
+
+        <item>
+            <title>Microsoft lanza la nueva Surface Pro 10</title>
+            <link>https://www.blogtecnologia.com/surface-pro-10</link>
+            <description>Microsoft renueva su línea Surface con la versión Pro 10.</description>
+            <pubDate>Fri, 15 Mar 2025 11:00:00 GMT</pubDate>
+            <category>Computadoras</category>
+        </item>
+
+        <item>
+            <title>Samsung desarrolla baterías de carga ultra rápida</title>
+            <link>https://www.blogtecnologia.com/samsung-baterias-rapidas</link>
+            <description>Samsung introduce nuevas baterías que pueden cargarse en menos de 10 minutos.</description>
+            <pubDate>Thu, 14 Mar 2025 08:00:00 GMT</pubDate>
+            <category>Baterías</category>
+        </item>
+    </channel>
+</rss>
